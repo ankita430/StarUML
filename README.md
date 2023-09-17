@@ -8,7 +8,7 @@
 ### Title: 
 Draw UML Use case diagram for an ATM machine. Explain the different component of a use case diagram.
 
-###Theory: 
+### Theory: 
 A use case diagram is a graphical representation of the functional requirements of a system, showcasing how users interact with the system and the system's responses. It's part of the Unified Modeling Language (UML), which is widely used for visualizing, specifying, constructing, and documenting software systems. 
 Different component of a use case diagram - 
 Actor: An actor is an external entity that interacts with the system.
